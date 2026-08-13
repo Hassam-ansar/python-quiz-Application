@@ -7,7 +7,7 @@ from inputimeout import TimeoutOccurred, inputimeout
 
 
 # Load questions from json file..
-with open("01_Quiz_application_project\diff_questions_category.json", "r") as file:
+with open("PYTHON-QUIZ-APPLICATION\diff_questions_category.json", "r") as file:
     diff_questions_category = js.load(file)
 
 print(f"Type of questions:{type(diff_questions_category)}")
@@ -127,7 +127,7 @@ class Quiz:
 
     # Version 8: Method to save player score without overwriting previous results
     def save_result(self):
-        file_path = r"01_Quiz_application_project\scores.json"
+        file_path = r"PYTHON-QUIZ-APPLICATION \scores.json"
 
         scores_data = []
 
@@ -192,7 +192,7 @@ class Quiz:
 
 # Helper to load scores safely
 def load_score_data():
-    file_path = r"01_Quiz_application_project\scores.json"
+    file_path = r"PYTHON-QUIZ-APPLICATION \scores.json"
     if not os.path.exists(file_path):
         return []
     try:
@@ -205,7 +205,7 @@ def load_score_data():
 # Version_9 : Leaderboard function 
 def show_leaderboard(all_categories):
 
-    file_path = r"01_Quiz_application_project\scores.json"
+    file_path = r"PYTHON-QUIZ-APPLICATION \scores.json"
 
     if not os.path.exists(file_path):
         print("\n======================================\n\t🏆 LEADERBOARD\n======================================")

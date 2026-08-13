@@ -1,0 +1,658 @@
+{
+  "Python": [
+    {
+      "Question": "What is Python?",
+      "A": "Programming Language",
+      "B": "Database",
+      "C": "Operating System",
+      "D": "Web Browser",
+      "Answer": "A"
+    },
+    {
+      "Question": "Who developed Python?",
+      "A": "James Gosling",
+      "B": "Guido van Rossum",
+      "C": "Dennis Ritchie",
+      "D": "Bjarne Stroustrup",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which keyword is used to define a function in Python?",
+      "A": "function",
+      "B": "define",
+      "C": "def",
+      "D": "func",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which data type stores True or False?",
+      "A": "String",
+      "B": "Integer",
+      "C": "Boolean",
+      "D": "Float",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which loop is used to iterate over a sequence?",
+      "A": "while",
+      "B": "for",
+      "C": "switch",
+      "D": "goto",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which symbol is used for comments in Python?",
+      "A": "//",
+      "B": "/* */",
+      "C": "#",
+      "D": "--",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which function is used to take input from the user?",
+      "A": "scan()",
+      "B": "cin()",
+      "C": "input()",
+      "D": "read()",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which keyword is used to create a class?",
+      "A": "class",
+      "B": "object",
+      "C": "struct",
+      "D": "new",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which collection stores key-value pairs?",
+      "A": "List",
+      "B": "Tuple",
+      "C": "Dictionary",
+      "D": "Set",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which keyword is used to import a module?",
+      "A": "include",
+      "B": "using",
+      "C": "import",
+      "D": "require",
+      "Answer": "C"
+    }
+  ],
+  "Java": [
+    {
+      "Question": "Which company originally developed Java?",
+      "A": "Microsoft",
+      "B": "Sun Microsystems",
+      "C": "Google",
+      "D": "Apple",
+      "Answer": "B"
+    },
+    {
+      "Question": "What is the entry point method of a Java program?",
+      "A": "start()",
+      "B": "run()",
+      "C": "main()",
+      "D": "init()",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which primitive data type is used to store decimal numbers in Java?",
+      "A": "int",
+      "B": "double",
+      "C": "String",
+      "D": "boolean",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which keyword is used to inherit a class in Java?",
+      "A": "implements",
+      "B": "extends",
+      "C": "inherits",
+      "D": "super",
+      "Answer": "B"
+    },
+    {
+      "Question": "What is the size of an int variable in Java?",
+      "A": "8 bit",
+      "B": "16 bit",
+      "C": "32 bit",
+      "D": "64 bit",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which collection class allows unique elements only?",
+      "A": "ArrayList",
+      "B": "LinkedList",
+      "C": "HashSet",
+      "D": "Vector",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which keyword is used to instantiate an object in Java?",
+      "A": "alloc",
+      "B": "create",
+      "C": "new",
+      "D": "make",
+      "Answer": "C"
+    },
+    {
+      "Question": "Java bytecode runs on which virtual machine?",
+      "A": "JVM",
+      "B": "JDK",
+      "C": "JRE",
+      "D": "JIT",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which keyword prevents a method from being overridden?",
+      "A": "static",
+      "B": "abstract",
+      "C": "final",
+      "D": "volatile",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which package is automatically imported in every Java program?",
+      "A": "java.util",
+      "B": "java.io",
+      "C": "java.lang",
+      "D": "java.net",
+      "Answer": "C"
+    }
+  ],
+  "JavaScript": [
+    {
+      "Question": "Which keyword is used to declare a block-scoped variable in JS?",
+      "A": "var",
+      "B": "let",
+      "C": "set",
+      "D": "declare",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which method prints output to the browser console?",
+      "A": "print()",
+      "B": "console.log()",
+      "C": "system.out()",
+      "D": "write()",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which data type is NOT primitive in JavaScript?",
+      "A": "Number",
+      "B": "String",
+      "C": "Object",
+      "D": "Boolean",
+      "Answer": "C"
+    },
+    {
+      "Question": "What result does typeof NaN yield in JavaScript?",
+      "A": "NaN",
+      "B": "number",
+      "C": "undefined",
+      "D": "object",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which symbol is used for strict equality comparison?",
+      "A": "=",
+      "B": "==",
+      "C": "===",
+      "D": "equals",
+      "Answer": "C"
+    },
+    {
+      "Question": "How do you write an single-line comment in JavaScript?",
+      "A": "#",
+      "B": "/*",
+      "C": "//",
+      "D": "<!--",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which method converts a JSON string into a JS object?",
+      "A": "JSON.stringify()",
+      "B": "JSON.parse()",
+      "C": "JSON.convert()",
+      "D": "JSON.toObject()",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which keyword creates a constant variable whose value cannot change?",
+      "A": "const",
+      "B": "fixed",
+      "C": "static",
+      "D": "let",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which built-in function popup shows an input box to the user?",
+      "A": "alert()",
+      "B": "confirm()",
+      "C": "prompt()",
+      "D": "msg()",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which array method adds one or more elements to the end of an array?",
+      "A": "pop()",
+      "B": "push()",
+      "C": "shift()",
+      "D": "unshift()",
+      "Answer": "B"
+    }
+  ],
+  "C++": [
+    {
+      "Question": "Who developed C++?",
+      "A": "Dennis Ritchie",
+      "B": "Bjarne Stroustrup",
+      "C": "Ken Thompson",
+      "D": "Linus Torvalds",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which header file is required for input/output operations in C++?",
+      "A": "<stdio.h>",
+      "B": "<iostream>",
+      "C": "<conio.h>",
+      "D": "<stdlib.h>",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which operator is used to allocate memory dynamically in C++?",
+      "A": "malloc",
+      "B": "alloc",
+      "C": "new",
+      "D": "create",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which access modifier allows members to be accessed anywhere?",
+      "A": "private",
+      "B": "protected",
+      "C": "public",
+      "D": "internal",
+      "Answer": "C"
+    },
+    {
+      "Question": "What operator is used for console output in C++?",
+      "A": ">>",
+      "B": "<<",
+      "C": "->",
+      "D": "::",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which concept allows using the same function name with different arguments?",
+      "A": "Function Overloading",
+      "B": "Function Overriding",
+      "C": "Inheritance",
+      "D": "Encapsulation",
+      "Answer": "A"
+    },
+    {
+      "Question": "What is the size of a char data type in C++?",
+      "A": "1 byte",
+      "B": "2 bytes",
+      "C": "4 bytes",
+      "D": "8 bytes",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which pointer stores the address of a calling object inside a class?",
+      "A": "self",
+      "B": "this",
+      "C": "super",
+      "D": "ptr",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which keyword is used to delete dynamically allocated memory?",
+      "A": "free",
+      "B": "remove",
+      "C": "delete",
+      "D": "clear",
+      "Answer": "C"
+    },
+    {
+      "Question": "What extension is standard for C++ source files?",
+      "A": ".c",
+      "B": ".cpp",
+      "C": ".cs",
+      "D": ".class",
+      "Answer": "B"
+    }
+  ],
+  "HTML": [
+    {
+      "Question": "What does HTML stand for?",
+      "A": "Hyper Text Markup Language",
+      "B": "High Text Machine Language",
+      "C": "Hyper Transfer Mark Language",
+      "D": "Home Tool Markup Language",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which HTML tag is used for the largest heading?",
+      "A": "<heading>",
+      "B": "<h6>",
+      "C": "<h1>",
+      "D": "<head>",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which HTML tag is used to create a hyperlink?",
+      "A": "<a>",
+      "B": "<link>",
+      "C": "<href>",
+      "D": "<url>",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which tag creates an unordered list?",
+      "A": "<ol>",
+      "B": "<ul>",
+      "C": "<li>",
+      "D": "<list>",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which attribute is used to provide alternate text for an image?",
+      "A": "src",
+      "B": "title",
+      "C": "alt",
+      "D": "caption",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which HTML tag is used to insert a line break?",
+      "A": "<lb>",
+      "B": "<break>",
+      "C": "<br>",
+      "D": "<line>",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which element contains meta-information about the HTML document?",
+      "A": "<body>",
+      "B": "<head>",
+      "C": "<meta>",
+      "D": "<title>",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which tag is used to create an input form field?",
+      "A": "<input>",
+      "B": "<field>",
+      "C": "<form>",
+      "D": "<textbox>",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which HTML5 element is used to render graphics on the fly?",
+      "A": "<svg>",
+      "B": "<canvas>",
+      "C": "<graphics>",
+      "D": "<draw>",
+      "Answer": "B"
+    },
+    {
+      "Question": "What is the correct doctype declaration for HTML5?",
+      "A": "<!DOCTYPE html>",
+      "B": "<!DOCTYPE HTML5>",
+      "C": "<doctype html>",
+      "D": "<!DOCTYPE>",
+      "Answer": "A"
+    }
+  ],
+  "CSS": [
+    {
+      "Question": "What does CSS stand for?",
+      "A": "Creative Style Sheets",
+      "B": "Cascading Style Sheets",
+      "C": "Computer Style System",
+      "D": "Colorful Style Sheets",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which CSS property is used to change text color?",
+      "A": "text-color",
+      "B": "font-color",
+      "C": "color",
+      "D": "background-color",
+      "Answer": "C"
+    },
+    {
+      "Question": "How do you select an element with id='main' in CSS?",
+      "A": ".main",
+      "B": "#main",
+      "C": "*main",
+      "D": "id:main",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which property controls the text size in CSS?",
+      "A": "font-style",
+      "B": "text-size",
+      "C": "font-size",
+      "D": "text-style",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which CSS property adds space inside an element's border?",
+      "A": "margin",
+      "B": "spacing",
+      "C": "padding",
+      "D": "border-space",
+      "Answer": "C"
+    },
+    {
+      "Question": "What is the default value of the position property in CSS?",
+      "A": "relative",
+      "B": "fixed",
+      "C": "static",
+      "D": "absolute",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which property is used to hide an element without removing its layout space?",
+      "A": "display: none",
+      "B": "visibility: hidden",
+      "C": "opacity: 0",
+      "D": "hide: true",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which CSS rule is used for responsive media queries?",
+      "A": "@media",
+      "B": "@responsive",
+      "C": "@screen",
+      "D": "@query",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which layout module provides a 1-dimensional layout system?",
+      "A": "Grid",
+      "B": "Flexbox",
+      "C": "Float",
+      "D": "Position",
+      "Answer": "B"
+    },
+    {
+      "Question": "How do you select elements with class name 'example' in CSS?",
+      "A": "#example",
+      "B": ".example",
+      "C": "example",
+      "D": "*example",
+      "Answer": "B"
+    }
+  ],
+  "SQL": [
+    {
+      "Question": "Which SQL statement is used to extract data from a database?",
+      "A": "GET",
+      "B": "OPEN",
+      "C": "SELECT",
+      "D": "EXTRACT",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which clause is used to filter records in SQL?",
+      "A": "WHERE",
+      "B": "HAVING",
+      "C": "ORDER BY",
+      "D": "GROUP BY",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which statement is used to insert new data into a database table?",
+      "A": "ADD RECORD",
+      "B": "INSERT INTO",
+      "C": "UPDATE",
+      "D": "NEW DATA",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which SQL keyword sorts the result set?",
+      "A": "SORT BY",
+      "B": "ORDER BY",
+      "C": "ARRANGE BY",
+      "D": "GROUP BY",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which constraint uniquely identifies each record in a table?",
+      "A": "FOREIGN KEY",
+      "B": "NOT NULL",
+      "C": "PRIMARY KEY",
+      "D": "UNIQUE",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which SQL function returns the number of rows?",
+      "A": "SUM()",
+      "B": "COUNT()",
+      "C": "NUM()",
+      "D": "TOTAL()",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which command removes a table completely from a database?",
+      "A": "DELETE TABLE",
+      "B": "REMOVE TABLE",
+      "C": "DROP TABLE",
+      "D": "TRUNCATE TABLE",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which SQL join returns matching records from both tables?",
+      "A": "LEFT JOIN",
+      "B": "RIGHT JOIN",
+      "C": "INNER JOIN",
+      "D": "FULL JOIN",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which wildcard character represents zero or more characters in SQL LIKE operator?",
+      "A": "_",
+      "B": "%",
+      "C": "*",
+      "D": "#",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which SQL keyword is used to modify existing records in a table?",
+      "A": "MODIFY",
+      "B": "CHANGE",
+      "C": "UPDATE",
+      "D": "ALTER",
+      "Answer": "C"
+    }
+  ],
+  "Git": [
+    {
+      "Question": "What is Git?",
+      "A": "Programming Language",
+      "B": "Distributed Version Control System",
+      "C": "Database Management Tool",
+      "D": "Web Hosting Server",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which command initializes a new Git repository?",
+      "A": "git start",
+      "B": "git new",
+      "C": "git init",
+      "D": "git create",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which command stages changes for the next commit?",
+      "A": "git push",
+      "B": "git add",
+      "C": "git stage",
+      "D": "git save",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which command records staged snapshots permanently to project history?",
+      "A": "git commit",
+      "B": "git save",
+      "C": "git push",
+      "D": "git log",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which command displays the current repository state and staging area?",
+      "A": "git check",
+      "B": "git status",
+      "C": "git info",
+      "D": "git log",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which command is used to download code from a remote repository?",
+      "A": "git clone",
+      "B": "git pull",
+      "C": "git fetch",
+      "D": "git download",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which command switches to a different branch in Git?",
+      "A": "git switch / checkout",
+      "B": "git change",
+      "C": "git move",
+      "D": "git branch",
+      "Answer": "A"
+    },
+    {
+      "Question": "Which file is used to specify untracked files that Git should ignore?",
+      "A": ".gitconfig",
+      "B": ".gitignore",
+      "C": "ignore.txt",
+      "D": ".gitfile",
+      "Answer": "B"
+    },
+    {
+      "Question": "Which command sends local commits to a remote repository?",
+      "A": "git upload",
+      "B": "git send",
+      "C": "git push",
+      "D": "git commit",
+      "Answer": "C"
+    },
+    {
+      "Question": "Which command merges another branch into the active branch?",
+      "A": "git join",
+      "B": "git combine",
+      "C": "git merge",
+      "D": "git connect",
+      "Answer": "C"
+    }
+  ]
+}
